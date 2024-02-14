@@ -1,6 +1,7 @@
 Temperature Converter
 This JavaScript project is a simple temperature converter that allows users to convert temperatures between Celsius and Fahrenheit.
 (https://github.com/AdrienFrigola/Temperature_Converter.js.git)
+
 How to Use
 Input Temperature: Enter the temperature you want to convert in the provided text box.
 
